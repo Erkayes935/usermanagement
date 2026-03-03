@@ -26,6 +26,6 @@ This project is a simple User Management REST API built with Spring Boot. It all
 - `DELETE /users/username/{username}` - Delete user by username
 
 ## Author Statement
-This is an original project created by me as the author. I affirm that this work is entirely my own and has not been forked, adapted, or recreated from any open source projects or existing codebases. This project was built from scratch for the purpose of a technical assessment for Maybank's developer role. I take pride in delivering authentic and original work.
+This is an original project created by me as the author. I affirm that this work is entirely my own and has not been forked, adapted, or recreated from any open source projects or existing codebases. I take pride in delivering authentic and original work.
 
 Enjoy exploring the code and feel free to reach out if you have any questions!
